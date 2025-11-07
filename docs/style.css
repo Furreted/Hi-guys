@@ -1,0 +1,60 @@
+selector {
+    property:value;
+}
+
+body {
+    background:green;
+
+}
+
+h1 {
+    color:yellow;
+    text-align: center;
+    margin-top: 0px;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+}
+
+h1 {
+    font-size: 200px;
+    
+}
+
+p {
+    text-align: center;
+}
+
+.otherb {
+    font-family:'Times New Roman', Times, serif;
+}
+
+img {
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+    height: 100%;
+
+}
+
+#hi {
+    width:30%;
+    height:30%;
+    margin-left: 30%;
+    margin-right: 50%;
+    margin-top: -10%;
+}
+
+#no {
+    width:15%;
+    height:15%;
+    margin-left: 40%;
+    margin-right: 50%;
+    margin-top: -3%;
+}
+
+.what {
+    font-family: monospace
+}
